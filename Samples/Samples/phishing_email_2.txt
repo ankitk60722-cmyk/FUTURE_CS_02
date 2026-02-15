@@ -1,0 +1,10 @@
+Sender: administraciones@pentagon-seguridad.cl
+Subject: There's issue with your American Express account
+Risk Level: High
+
+Indicators:
+- Sender domain does not match official americanexpress.com domain
+- Urgent request to verify account information
+- Suspicious “Click here to review your account” button
+- Possible credential harvesting attempt
+- Minor grammar inconsistency in subject line
