@@ -1,0 +1,9 @@
+Sender: info@confirm.com
+Subject: Netflix Account Hold
+Risk Level: High
+
+Indicators:
+- Spoofed domain
+- Suspicious redirect link
+- Grammar errors
+- Urgency tactic
