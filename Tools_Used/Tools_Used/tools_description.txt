@@ -1,0 +1,4 @@
+Google Safe Browsing – Used to verify unsafe websites.
+VirusTotal – Used to analyze URLs across 94 security vendors.
+MS Word – Used to prepare structured phishing detection report.
+GitHub – Used for project documentation and submission.
