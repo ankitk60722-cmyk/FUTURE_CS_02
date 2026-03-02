@@ -66,7 +66,7 @@ FUTURE_CS_02
 ├── README.md
 │
 ├── Report/
-│   └── Phishing_Detection_Report.pdf
+│   └── FI-CS-2026-Task2-Phishing_Email_Detection_Report-Ankit.pdf
 │
 ├── Samples/
 │   ├── phishing_email_1.txt
