@@ -101,4 +101,4 @@ The project demonstrates real-world email threat analysis and structured cyberse
 
 ---
 
-© 2026 | Cyber Security Internship – Future Interns
+© 2026 | Cyber Security Internship Future Interns
